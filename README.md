@@ -1,2 +1,3 @@
-# vncc2015
-Theme design for Aurelio Voltaire's NecroComicCon, http://necrocomiccon.com
+# Voltaire's NecroComicCon 2015
+
+Theme design for Aurelio Voltaire's NecroComicCon website, http://necrocomiccon.com
