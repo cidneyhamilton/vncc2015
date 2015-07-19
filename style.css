@@ -1,0 +1,46 @@
+/*
+Theme Name: VNCC 2015 
+Template: jme-event-base-theme
+
+Author: Cidney Hamilton
+Author URI: http://cidneyhamilton.com
+
+Description: 2015 event theme for Voltaire NecroComicCon. Child of JME-Event-Base-Theme.
+
+Version: 1.0
+
+*/
+
+/* Main menu background */
+.main-menu {
+  background: #7b55a2;
+  padding-top: 10px;
+}
+
+#main {
+  background: #e6e6e6;
+}
+
+.hentry,
+.hentry:last-child,
+.singular .hentry {
+  background-color: white;
+  box-shadow: 0 0 2px 5px black;
+}
+
+.entry-header {
+  background-color: black;
+  color: white;
+}
+
+.entry-header, .entry-meta {
+  padding: 0 1.5em;
+}
+
+.entry-title, .entry-title a {
+  color: white;
+}
+
+.entry-content {
+  padding: 0.5em 1.5em;
+}
